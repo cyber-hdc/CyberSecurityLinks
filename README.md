@@ -1,3 +1,7 @@
+# Disclaimer
+These links are for educational purposes only, please do not use any information you find through these links to do harm…
+
+
 # Technical Blogs
 - nedwill’s security blog - https://nedwill.github.io/blog/feed.xml (https://nedwill.github.io/blog/)
 - Realmode Labs - Medium - https://medium.com/feed/realmodelabs (https://medium.com/realmodelabs)
